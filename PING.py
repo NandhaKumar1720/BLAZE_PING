@@ -8,7 +8,8 @@ urls = [
     "https://blaze-cpp-compiler.onrender.com",
     "https://blaze-php-compiler.onrender.com",
     "https://blaze-java-compiler.onrender.com",
-    "https://blaze-cpp-console-compiler.onrender.com"
+    "https://blaze-cpp-console-compiler.onrender.com",
+    "https://blaze-c-compiler.onrender.com"
 ]
 
 while True:
