@@ -5,7 +5,7 @@ import time
 urls = [
     "https://blaze-python-compiler-nmbe.onrender.com",
     "https://blaze-javascript-editor-hq9k.onrender.com",
-    "https://blaze-php-compiler-2iwl.onrender.com",
+    "https://blaze-php-compiler-4kgg.onrender.com",
     "https://blaze-java-compiler-hz4k.onrender.com",
     "https://blaze-cpp-compiler-iwgl.onrender.com",
     "https://blaze-c-compiler-pysc.onrender.com",
