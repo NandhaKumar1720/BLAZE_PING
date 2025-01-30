@@ -3,13 +3,13 @@ import time
 
 # Replace with your Render service URLs
 urls = [
-    "https://blaze-python-compiler.onrender.com",
+    "https://blaze-python-compiler-nmbe.onrender.com",
     "https://blaze-javascript-editor-v8r0.onrender.com",
     "https://blaze-php-compiler-2iwl.onrender.com",
-    "https://blaze-java-compiler.onrender.com",
+    "https://blaze-java-compiler-hz4k.onrender.com",
     "https://blaze-cpp-compiler-69gs.onrender.com",
     "https://blaze-c-compiler-fevy.onrender.com",
-    "https://blaze-ruby-compiler.onrender.com"
+    "https://blaze-ruby-compiler-u64z.onrender.com"
 ]
 
 while True:
