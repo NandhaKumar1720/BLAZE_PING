@@ -9,7 +9,8 @@ urls = [
     "https://blaze-java-compiler-hz4k.onrender.com",
     "https://blaze-cpp-compiler-iwgl.onrender.com",
     "https://blaze-c-compiler-pysc.onrender.com",
-    "https://blaze-ruby-compiler-u64z.onrender.com"
+    "https://blaze-ruby-compiler-u64z.onrender.com",
+    "https://blaze-csharp-compiler-lwwu.onrender.com"
 ]
 
 while True:
