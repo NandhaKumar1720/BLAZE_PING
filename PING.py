@@ -3,7 +3,7 @@ import time
 
 # Replace with your Render service URLs
 urls = [
-    "https://blaze-python-compiler-5uv6.onrender.com",
+    "https://blaze-python-compiler-31c2.onrender.com",
     "https://blaze-javascript-editor-jwvo.onrender.com",
     "https://blaze-php-compiler-2f37.onrender.com",
     "https://blaze-java-compiler-usro.onrender.com",
