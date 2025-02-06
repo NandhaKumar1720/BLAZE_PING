@@ -6,7 +6,7 @@ urls = [
     "https://blaze-python-compiler-31c2.onrender.com",
     "https://blaze-javascript-editor-jwvo.onrender.com",
     "https://blaze-php-compiler-2f37.onrender.com",
-    "https://blaze-java-compiler-usro.onrender.com",
+    "https://blaze-java-compiler-grhj.onrender.com",
     "https://blaze-cpp-compiler-plbj.onrender.com",
     "https://blaze-c-compiler-25x7.onrender.com",
     "https://blaze-ruby-compiler-odsb.onrender.com",
