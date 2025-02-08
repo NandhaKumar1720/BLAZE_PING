@@ -11,7 +11,8 @@ urls = [
     "https://blaze-c-compiler-25x7.onrender.com",
     "https://blaze-ruby-compiler-odsb.onrender.com",
     "https://blaze-golang-compiler.onrender.com",
-    "https://blaze-csharp-compiler-0hxc.onrender.com"
+    "https://blaze-csharp-compiler-0hxc.onrender.com",
+    "https://blaze-swift-compiler.onrender.com"
 
 ]
 
