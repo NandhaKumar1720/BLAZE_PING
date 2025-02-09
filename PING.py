@@ -9,7 +9,13 @@ urls = [
     "https://blaze-java-compiler-grhj.onrender.com",
     "https://blaze-cpp-compiler-plbj.onrender.com",
     "https://blaze-c-compiler-25x7.onrender.com",
-    "https://blaze-ruby-compiler-odsb.onrender.com"
+    "https://blaze-ruby-compiler-odsb.onrender.com",
+    "https://blaze-golang-compiler.onrender.com",
+    "https://blaze-csharp-compiler-0hxc.onrender.com",
+    "https://blaze-swift-compiler.onrender.com",
+    "https://blaze-r-compiler.onrender.com",
+    "https://blaze-typescript-compiler.onrender.com",
+    "https://blaze-rust-compiler.onrender.com"
 
 ]
 
